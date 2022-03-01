@@ -1,5 +1,5 @@
 package com.current;
-
+  
 
 public class UserInfoMapper implements StringMapper<UserInfo> {
 
